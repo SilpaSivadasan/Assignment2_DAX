@@ -1,1 +1,2 @@
-# Assignment2_DAX
+# Assignment2_DAX 
+For this assignment, I have applied several basic DAX operations within Power BI to enhance data analysis. I created calculated columns to add new fields to my data model, such as Sales ytd , Sales category etc . Additionally, I used basic aggregation functions like SUM perform simple calculations on the dataset. I also created a calculated table to summarize the data based on specific criteria, helping to organize and analyze the information more effectively. These DAX functions allowed me to manipulate and aggregate the data dynamically, providing deeper insights into the dataset. Through these operations, I gained a deeper understanding of how DAX can be used to perform basic data transformations and calculations within Power BI.
